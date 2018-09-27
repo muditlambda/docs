@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Getting Started": ["real_time_browser_testing"],
+    "Getting Started": ["real-time-browser-testing"],
     "Automated Screenshot Testing": ["doc2"],
     "Responsive Testing": ["doc3"]
   },
