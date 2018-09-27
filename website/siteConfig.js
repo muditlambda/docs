@@ -28,7 +28,7 @@ const siteConfig = {
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
-
+  cname: "docs.lambdatest.com",
   // Used for publishing and more
   projectName: "LambdaTest.github.io",
   organizationName: "LambdaTest",
