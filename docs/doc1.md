@@ -1,5 +1,5 @@
 ---
-id: real_time_browser_testing
+id: real-time-browser-testing
 title: Real time browser testing
 sidebar_label: Real Time Browser Testing
 ---
