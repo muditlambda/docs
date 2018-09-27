@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Getting Started": ["real_time_browser_testing"],
+    "Automated Screenshot Testing": ["doc2"],
+    "Responsive Testing": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
