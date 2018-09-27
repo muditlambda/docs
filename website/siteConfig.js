@@ -37,8 +37,8 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   algolia: {
-    apiKey: "957312d6202eb3faebada8955c72f0a3",
-    indexName: "lambdadocs",
+    apiKey: "e1343e010e7438c90e9d79c276409e3a",
+    indexName: "lambdatest",
     algoliaOptions: {} // Optional, if provided by Algolia
   },
   // For no header links in the top nav bar -> headerLinks: [],

@@ -2,9 +2,7 @@
   "docs": {
     "Getting Started": ["real-time-browser-testing"],
     "Automated Screenshot Testing": ["doc2"],
-    "Responsive Testing": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Responsive Testing": ["doc3"],
+    "How to?": ["tutorial"]
   }
 }
