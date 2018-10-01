@@ -1,3 +1,9 @@
+---
+id: example-doc
+title: Example Doc
+sidebar_label: Example Document
+---
+
 ## Example Document
 
 
