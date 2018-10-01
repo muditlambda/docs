@@ -3,7 +3,7 @@
     "Getting Started": ["real-time-browser-testing"],
     "Automated Screenshot Testing": ["doc2"],
     "Responsive Testing": ["doc3"],
-    "Example Doc": ["doc4"],
+    "Example Doc": ["example-doc"],
     "How to?": ["tutorial"]
   }
 }
