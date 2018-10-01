@@ -28,6 +28,7 @@ Step 2: After that an image editor will pop out where you can edit and comment o
 
 Step 3: Finally click save and done.
 
+step 3
 ```js
 //CODE EXAMPLE
 ReactDOM.render(<h1>Hello, world!</h1>, document.getElementById("root"));
